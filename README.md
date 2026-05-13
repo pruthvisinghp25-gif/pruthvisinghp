@@ -1,4 +1,5 @@
 Hey there! 👋
+
 I’m Pruthvi, an Electronics & Communication Engineering student from Bengaluru, India.
 
 I love building and experimenting with coding projects in Verilog HDL, Python — especially IoT and embedded systems using ESP32.
@@ -21,4 +22,5 @@ Fun Facts:
 
 Instagram: https://www.instagram.com/___pruthvi_47?igsh=MWM3MHJlc21kOXdnYQ==
 Email: pruthvisinghp25@gmail.com
+
 Linkedin: linkedin.com/in/pruthvi-singh-p-35a01937a
