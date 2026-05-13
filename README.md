@@ -21,6 +21,7 @@ Fun Facts:
 📫 Reach me:
 
 Instagram: https://www.instagram.com/___pruthvi_47?igsh=MWM3MHJlc21kOXdnYQ==
+
 Email: pruthvisinghp25@gmail.com
 
 Linkedin: linkedin.com/in/pruthvi-singh-p-35a01937a
